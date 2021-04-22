@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import NavTabs from "./components/NavTabs";
 import Home from "./components/pages/Home";
 import Graphic from "./components/pages/Graphic";
@@ -7,7 +7,7 @@ import Web from "./components/pages/Web";
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <div>
         <NavTabs />
         <Route exact path={["/", "/home"]} component={Home} />
