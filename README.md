@@ -24,12 +24,12 @@ N/A
 
 ## Repository
 
-[Graphic and Web Design Portfolio Repo](https://github.com/scibettas1/portfolio-website)
+[Graphic and Web Design Portfolio Repo](https://github.com/scibettas1/scibettas1.github.io)
 
 
 ## Deployed Project
 
-[Graphic and Web Design Portfolio]( https://scibettas1.github.io/portfolio-website/)
+[Graphic and Web Design Portfolio](https://scibettas1.github.io)
 
 
 ## Screen Shot
