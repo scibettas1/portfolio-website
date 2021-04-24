@@ -1,27 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.8b45a8e1.chunk.css",
-    "main.js": "/static/js/main.c5be003a.chunk.js",
-    "main.js.map": "/static/js/main.c5be003a.chunk.js.map",
+    "main.js": "/static/js/main.9db05a8b.chunk.js",
+    "main.js.map": "/static/js/main.9db05a8b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ca5da12.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ca5da12.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.904a318d.chunk.js": "/static/js/2.904a318d.chunk.js",
-    "static/js/2.904a318d.chunk.js.map": "/static/js/2.904a318d.chunk.js.map",
+    "static/js/2.8e39f056.chunk.js": "/static/js/2.8e39f056.chunk.js",
+    "static/js/2.8e39f056.chunk.js.map": "/static/js/2.8e39f056.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.8b45a8e1.chunk.css.map": "/static/css/main.8b45a8e1.chunk.css.map",
-    "static/js/2.904a318d.chunk.js.LICENSE.txt": "/static/js/2.904a318d.chunk.js.LICENSE.txt",
+    "static/js/2.8e39f056.chunk.js.LICENSE.txt": "/static/js/2.8e39f056.chunk.js.LICENSE.txt",
     "static/media/12_9_12_henrietta_hudson.9e05d60f.jpg": "/static/media/12_9_12_henrietta_hudson.9e05d60f.jpg",
     "static/media/Samantha_Scibetta_resume2020_Redacted2.6842cd1b.pdf": "/static/media/Samantha_Scibetta_resume2020_Redacted2.6842cd1b.pdf",
     "static/media/Waverly_Menu.97b577ce.jpg": "/static/media/Waverly_Menu.97b577ce.jpg",
     "static/media/clubhouse_recording_logo.89f209d0.jpg": "/static/media/clubhouse_recording_logo.89f209d0.jpg",
     "static/media/crossroads7-6-19.88f350e8.jpg": "/static/media/crossroads7-6-19.88f350e8.jpg",
-    "static/media/day_planner.87bc9606.png": "/static/media/day_planner.87bc9606.png",
     "static/media/dingbatz_10_25_15.abe98356.jpg": "/static/media/dingbatz_10_25_15.abe98356.jpg",
     "static/media/directions_interpretation.7d77efec.jpg": "/static/media/directions_interpretation.7d77efec.jpg",
     "static/media/eat-the-burger.79496373.png": "/static/media/eat-the-burger.79496373.png",
-    "static/media/employee_tracker.95a9922e.png": "/static/media/employee_tracker.95a9922e.png",
     "static/media/ending_dan_gordon_band_logo.a0ab8b05.jpg": "/static/media/ending_dan_gordon_band_logo.a0ab8b05.jpg",
     "static/media/facebook.eda51077.png": "/static/media/facebook.eda51077.png",
     "static/media/fivewire.ae61a1b0.png": "/static/media/fivewire.ae61a1b0.png",
@@ -29,9 +27,7 @@
     "static/media/github.1199997f.png": "/static/media/github.1199997f.png",
     "static/media/style.css": "/static/media/hero.f0e14c91.jpg",
     "static/media/linkedin.1a089958.png": "/static/media/linkedin.1a089958.png",
-    "static/media/password_generator.1a245b6e.png": "/static/media/password_generator.1a245b6e.png",
     "static/media/profile.d2a14487.jpg": "/static/media/profile.d2a14487.jpg",
-    "static/media/readMe_generator.5bf230f0.png": "/static/media/readMe_generator.5bf230f0.png",
     "static/media/song_interpretation.145ac40d.jpg": "/static/media/song_interpretation.145ac40d.jpg",
     "static/media/the_dead_ponies_band_logo.f0165941.jpg": "/static/media/the_dead_ponies_band_logo.f0165941.jpg",
     "static/media/upcoming-shows.78f4aef2.jpg": "/static/media/upcoming-shows.78f4aef2.jpg",
@@ -40,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.7ca5da12.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.904a318d.chunk.js",
+    "static/js/2.8e39f056.chunk.js",
     "static/css/main.8b45a8e1.chunk.css",
-    "static/js/main.c5be003a.chunk.js"
+    "static/js/main.9db05a8b.chunk.js"
   ]
 }
