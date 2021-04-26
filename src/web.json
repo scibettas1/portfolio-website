@@ -28,7 +28,7 @@
       },
       {
         "id": 4,
-        "image": "/static/media/password-generator.png",
+        "image": "/static/media/password-generator.1a245b6e.png",
         "link": "https://scibettas1.github.io/password_generator/",
         "repo": "https://github.com/scibettas1/password_generator",
         "title": "Password Generator",
@@ -46,7 +46,7 @@
       },
       {
         "id": 6,
-        "image": "/static/media/readMe_generator.5bf230f0.png",
+        "image": "/static/media/readMe-generator.5bf230f0.png",
         "link": "",
         "repo": "",
         "title": "ReadMe Generator",
@@ -61,6 +61,15 @@
         "title": "Employee Tracker",
         "description": "",
         "alt": "employee tracker application"
+      },
+      {
+      "id": 8,
+        "image": "/static/media/flight-saver.04177b16.png",
+        "link": "",
+        "repo": "",
+        "title": "Flight Saver",
+        "description": "",
+        "alt": "seach and save flights application"
       }
   ]
   
