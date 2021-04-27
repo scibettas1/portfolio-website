@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8b45a8e1.chunk.css",
-    "main.js": "/static/js/main.ca125afb.chunk.js",
-    "main.js.map": "/static/js/main.ca125afb.chunk.js.map",
+    "main.js": "/static/js/main.f44542c9.chunk.js",
+    "main.js.map": "/static/js/main.f44542c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ca5da12.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ca5da12.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.8e39f056.chunk.js": "/static/js/2.8e39f056.chunk.js",
-    "static/js/2.8e39f056.chunk.js.map": "/static/js/2.8e39f056.chunk.js.map",
+    "static/js/2.0eecae2e.chunk.js": "/static/js/2.0eecae2e.chunk.js",
+    "static/js/2.0eecae2e.chunk.js.map": "/static/js/2.0eecae2e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.8b45a8e1.chunk.css.map": "/static/css/main.8b45a8e1.chunk.css.map",
-    "static/js/2.8e39f056.chunk.js.LICENSE.txt": "/static/js/2.8e39f056.chunk.js.LICENSE.txt",
+    "static/js/2.0eecae2e.chunk.js.LICENSE.txt": "/static/js/2.0eecae2e.chunk.js.LICENSE.txt",
     "static/media/12_9_12_henrietta_hudson.9e05d60f.jpg": "/static/media/12_9_12_henrietta_hudson.9e05d60f.jpg",
     "static/media/Samantha_Scibetta_resume2020_Redacted2.6842cd1b.pdf": "/static/media/Samantha_Scibetta_resume2020_Redacted2.6842cd1b.pdf",
     "static/media/Waverly_Menu.97b577ce.jpg": "/static/media/Waverly_Menu.97b577ce.jpg",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.7ca5da12.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.8e39f056.chunk.js",
+    "static/js/2.0eecae2e.chunk.js",
     "static/css/main.8b45a8e1.chunk.css",
-    "static/js/main.ca125afb.chunk.js"
+    "static/js/main.f44542c9.chunk.js"
   ]
 }
