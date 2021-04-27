@@ -24,7 +24,7 @@ function Graphic() {
     <div>
       <Banner pageTitle="Graphic Design Portfolio" />
       <div className="container pushFooter">
-        <div className="row row-padding">
+        <div className="row row-margin">
           {graphic.map(graphicItem => (
             <ModalLaunchGraphic
               image={graphicItem.image}

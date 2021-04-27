@@ -22,7 +22,7 @@ function Web() {
     <div>
       <Banner pageTitle="Web Development Portfolio" />
       <div className="container pushFooter">
-        <div class="row row-padding">
+        <div class="row row-margin">
           {web.map(webItem => (
             <ModalLaunchWeb
               image={webItem.image}

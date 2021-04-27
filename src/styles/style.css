@@ -52,6 +52,10 @@ h5 {
 .row {
     padding-bottom: 48px;
 }
+.row-margin {
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
 .navbar-nav {
     line-height: 2.5;
 }
@@ -107,17 +111,37 @@ h5 {
     margin-right: auto;
     border: 3px solid #ff4000;
 }
-
-.thumb {
-    /* padding: .25rem;
-    background-color: #fff; */
-    /* border: 1px solid #dee2e6; */
+.homeThumb {
     max-width: 100%;
     object-fit: cover;
     vertical-align: middle;
     margin: 10px;
     width: 162px;
     height: 162px;
+}
+.thumb {
+    max-width: 100%;
+    object-fit: cover;
+    vertical-align: middle;
+    margin: 10px;
+    width: 210px;
+    height: 210px;
+}
+
+@media (max-width: 767px) {
+    .thumb {
+        width: 172px;
+        height: 172px;
+    }
+    .pageTitle {
+        margin: 220px 20px 0px 20px;
+    }
+}
+@media (max-width: 413px) {
+    .thumb {
+        width: 152px;
+        height: 152px;
+    }
 }
 .modalImg{
     margin-left: auto;

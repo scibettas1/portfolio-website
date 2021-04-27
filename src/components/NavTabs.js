@@ -10,7 +10,7 @@ function NavTabs() {
   return (
     <div>
       <img src={pop} className="pop" alt="circle line design"/>
-      <Navbar fixed="top" bg="#2f4f4f" expand="lg">
+      <Navbar className="navbar-dark" fixed="top" bg="#2f4f4f" expand="lg">
         <Navbar.Brand>Sam Scibetta's Portfolio</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
