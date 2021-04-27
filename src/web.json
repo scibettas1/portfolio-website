@@ -38,37 +38,37 @@
       {
         "id": 5,
         "image": "/static/media/day_planner.87bc9606.png",
-        "link": "",
-        "repo": "",
+        "link": "https://scibettas1.github.io/calendar/",
+        "repo": "https://github.com/scibettas1/calendar",
         "title": "Work Day Scheduler",
-        "description": "",
+        "description": "A Front-end day planner application that allows you to enter and save tasks and appointments for each hour. As each hour passes, the color of the box will change.",
         "alt": "scheduling application"
       },
       {
         "id": 6,
         "image": "/static/media/readMe-generator.5bf230f0.png",
-        "link": "",
-        "repo": "",
+        "link": "https://drive.google.com/file/d/1A9TpvZSDcvcvmeDBHxwfAnJMMBOvoDBI/preview",
+        "repo": "https://github.com/scibettas1/readme_writer",
         "title": "ReadMe Generator",
-        "description": "",
+        "description": "README generator that uses inquirer to ask questions and print the answers to a README document.",
         "alt": "redme generator application"
       },
       {
         "id": 7,
         "image": "/static/media/employee_tracker.95a9922e.png",
-        "link": "",
-        "repo": "",
+        "link": "https://drive.google.com/file/d/1JqXH6d_lorUpccgi5XIE1krg_CcGpmlO/view",
+        "repo": "https://github.com/scibettas1/employee_tracker",
         "title": "Employee Tracker",
-        "description": "",
+        "description": "A mySQL database of employee information that can be viewed and modified via the server.",
         "alt": "employee tracker application"
       },
       {
       "id": 8,
         "image": "/static/media/flight-saver.04177b16.png",
-        "link": "",
-        "repo": "",
+        "link": "https://scibettas1.github.io/flightSaver/",
+        "repo": "https://github.com/scibettas1/flightSaver",
         "title": "Flight Saver",
-        "description": "",
+        "description": "Front-end mobile responsive travel website that alows you to search for flights and save them into a search history. It also provides weather and currency exchange information for when and where you are traveling. Group project deployed on Github Pages.",
         "alt": "seach and save flights application"
       }
   ]

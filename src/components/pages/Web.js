@@ -20,6 +20,7 @@ function Web() {
               repo={webItem.repo}
               title={webItem.title}
               description={webItem.description}
+              alt={webItem.alt}
             />
           ))}
         </div>
