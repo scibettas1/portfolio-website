@@ -4,6 +4,16 @@ import ModalLaunchWeb from "../PortfolioItemWeb"
 import Footer from "../Footer"
 import web from "../../web.json";
 
+//This is necessary for the production build to add images to media directory.
+// ----------------------Images----------------------------
+import password from "../../images/password-generator.png";
+import planner from "../../images/day_planner.png";
+import readMe from "../../images/readMe-generator.png";
+import eTracker from "../../images/employee_tracker.png";
+import fiveWire from "../../images/fivewire.png";
+import burger from "../../images/eat-the-burger.png";
+import weather from "../../images/weather-app.png";
+// -------------------------------------------------------
 
 function Web() {
 

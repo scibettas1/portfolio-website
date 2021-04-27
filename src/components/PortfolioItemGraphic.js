@@ -28,8 +28,8 @@ function ModalLaunchGraphic(props) {
                 aria-labelledby="contained-modal-title-vcenter"
                 centered
             >
-                <Modal.Header closeButton>
-                    <img src={portfolioItem.image} className="img-fluid" alt={portfolioItem.alt} />
+                <Modal.Header>
+                    <img src={portfolioItem.image} className="img-fluid modalImg" alt={portfolioItem.alt} />
                 </Modal.Header>
                 <Modal.Body>
                 <h3>{portfolioItem.title}</h3>

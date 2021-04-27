@@ -119,6 +119,9 @@ h5 {
     width: 162px;
     height: 162px;
 }
+.modalImg{
+    margin-left: auto;
+}
 /* bootstrap will overide the custom css without the !important */
 .view-btn {
     display: inline-block;
