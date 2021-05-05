@@ -5,6 +5,7 @@ import Home from "./components/pages/Home";
 import Graphic from "./components/pages/Graphic";
 import Web from "./components/pages/Web";
 
+
 function App() {
   return (
     <Router basename='/'>

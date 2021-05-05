@@ -1,15 +1,16 @@
 import React from "react";
 import { Navbar, Nav, NavItem } from 'react-bootstrap'
 import { NavLink } from "react-router-dom";
-import resume from "../images/Samantha_Scibetta_Resume2021_Redacted.pdf"
+// import { Document} from 'react-pdf'
 
+// import resume from "../images/samantha-scibetta-resume2021-redacted.pdf"
 import pop from "../images/lolipop.png";
 
 function NavTabs() {
 
   return (
     <div>
-      <img src={pop} className="pop" alt="circle line design"/>
+      <img src={pop} className="pop" alt="circle line design" />
       <Navbar className="navbar-dark" fixed="top" bg="#2f4f4f" expand="lg">
         <Navbar.Brand>Sam Scibetta's Portfolio</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -27,9 +28,12 @@ function NavTabs() {
               <NavLink className="nav-link" to="/graphic">Graphic Design</NavLink>
             </NavItem>
 
-            <NavItem>
-              <NavLink to={resume} target="_blank" rel="noreferrer"><button type="button" className="view-btn">Download Resume</button></NavLink>
-            </NavItem>
+            {/* <NavItem>
+              <button type="button" className="view-btn">
+                <Document
+                  file={resume} target="_blank">Download Resume
+                </Document></button>
+            </NavItem> */}
 
           </Nav>
         </Navbar.Collapse>
