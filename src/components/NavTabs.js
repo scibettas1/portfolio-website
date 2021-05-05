@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar, Nav, NavItem } from 'react-bootstrap'
 import { NavLink } from "react-router-dom";
-import resume from "../images/Samantha_Scibetta_resume2020_Redacted2.pdf"
+import resume from "../images/Samantha_Scibetta_Resume2021_Redacted.pdf"
 
 import pop from "../images/lolipop.png";
 
