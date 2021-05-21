@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/style.css"
+import { gsap } from "gsap";
 
 // ----------------------Images---------------------------
 import profile from "../images/profile.jpg";
@@ -11,6 +12,9 @@ import circle from "../images/circle.png";
 
 
 function Hero() {
+
+  gsap.to(".home-box", { delay: 10, duration: 2, opacity: 1 });
+
   return (
     <div>
       <div className="hero">
@@ -20,10 +24,10 @@ function Hero() {
             <div className="col-md-5">
             <div className="row"></div>
             <div className="row hideOnMobile"></div>
-              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile" alt="circle"/></div>
-              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile" alt="circle"/></div>
-              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile" alt="circle"/></div>
-              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile" alt="circle"/></div>
+              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile dot1" alt="circle"/></div>
+              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile dot2" alt="circle"/></div>
+              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile dot3" alt="circle"/></div>
+              <div className="row hideOnMobile"><img src={circle} className="circle hideOnMobile dot4" alt="circle"/></div>
             </div>
             <div className="col-md-5">
               <img src={profile} className="rounded-circle profile-img" alt="profile sam scibetta"/>
@@ -44,7 +48,7 @@ function Hero() {
               <p>Sam Scibetta is a Graphic Designer and Full-stack Web Developer with 10 + years experience with HTML, CSS, CMS
                 (including Word Press), and Adobe Creative Suite, 6 months experience with JavaScript, and knowledge of
                 React. She graduated from William Paterson University with a BFA in Fine Art in 2009 and recently graduated from
-                Rutgers University of New brunswick with a professional certificate in Full-stack Web Development.</p>
+                Rutgers University of New Brunswick with a Professional Certificate in Full-stack Web Development.</p>
             </div>
           </div>
         </div>
