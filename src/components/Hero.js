@@ -45,10 +45,10 @@ function Hero() {
             </div>
 
             <div className="col-md-5">
-              <p>Sam Scibetta is a Graphic Designer and Full-stack Web Developer with 10 + years experience with HTML, CSS, CMS
+              <p>Sam Scibetta is a Graphic Designer and Full-Stack Web Developer with 10 + years experience with HTML, CSS, CMS
                 (including Word Press), and Adobe Creative Suite, 6 months experience with JavaScript, and knowledge of
                 React. She graduated from William Paterson University with a BFA in Fine Art in 2009 and recently graduated from
-                Rutgers University of New Brunswick with a Professional Certificate in Full-stack Web Development.</p>
+                Rutgers University of New Brunswick with a Professional Certificate in Full-Stack Web Development.</p>
             </div>
           </div>
         </div>
