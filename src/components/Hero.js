@@ -13,7 +13,27 @@ import circle from "../images/circle.png";
 
 function Hero() {
 
-  gsap.to(".home-box", { delay: 10, duration: 2, opacity: 1 });
+  if (window.matchMedia('(max-device-width: 480px)').matches)  {
+    //card animations
+    // gsap.from(".dot1", { delay: 2, x: 3000 });
+    // gsap.to(".dot1", { delay: 2, duration: 2, x: 0 , ease: "bounce" });
+    // gsap.from(".dot2", { delay: 3, x: 3000 });
+    // gsap.to(".dot2", { delay: 3, duration: 2, x: 0, ease: "bounce" });
+    // gsap.from(".dot3", { delay: 4, x: 3000 });
+    // gsap.to(".dot3", { delay: 4, duration: 2, x: 0, ease: "bounce" });
+    // gsap.from(".dot4", { delay: 5, x: 3000 });
+    // gsap.to(".dot4", { delay: 5, duration: 2, x: 0, ease: "bounce" });
+} else {
+    //dot animations
+    gsap.from(".dot1", { delay: 2, x: 3000 });
+    gsap.to(".dot1", { delay: 2, duration: 2, x: 0, ease: "bounce" });
+    gsap.from(".dot2", { delay: 3, x: 3000 });
+    gsap.to(".dot2", { delay: 3, duration: 2, x: 0, ease: "bounce" });
+    gsap.from(".dot3", { delay: 4, x: 3000 });
+    gsap.to(".dot3", { delay: 4, duration: 2, x: 0, ease: "bounce" });
+    gsap.from(".dot4", { delay: 5, x: 3000 });
+    gsap.to(".dot4", { delay: 5, duration: 2, x: 0, ease: "bounce" });
+}
 
   return (
     <div>
