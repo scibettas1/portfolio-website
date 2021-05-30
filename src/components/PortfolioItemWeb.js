@@ -9,6 +9,14 @@ function ModalLaunchWeb(props) {
     const portfolioItem = props;
     console.log(portfolioItem);
 
+    const hide= () => {
+        if (portfolioItem.repo="#") {
+            document.getElementById('repo').addClass('hide')
+        }
+    };
+
+    hide()
+    
     return (
         <>
             <img src={props.image} alt={props.alt} className="rounded thumb shadow" onClick={() => setModalShow(true)}/>
@@ -35,7 +43,7 @@ function ModalLaunchWeb(props) {
                     <h3>{portfolioItem.title}</h3>
                     {portfolioItem.description}<br />
                     <a href={portfolioItem.link} target="_blank" rel="noreferrer"><button className="view-btn">Launch Application</button></a>
-                    <a href={portfolioItem.repo}  target="_blank" rel="noreferrer"><button className="view-btn">Visit Repository</button></a>
+                    <a href={portfolioItem.repo}  target="_blank" rel="noreferrer"><button id="repo" className="view-btn">Visit Repository</button></a>
                 </Modal.Body>
                 <Modal.Footer>
                     <button className="view-btn" onClick={props.onHide}>Close</button>

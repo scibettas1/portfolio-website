@@ -146,6 +146,9 @@ h1 {
     margin-left: auto;
     margin-right:auto;
 }
+.hide {
+    display:none!important;
+}
 /* bootstrap will overide the custom css without the !important */
 .view-btn {
     display: inline-block;
