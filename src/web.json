@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/static/media/nafto.a57d5248.png",
+    "image": "static/media/nafto.74231bed.png",
     "link": "https://www.nafto.org/",
     "repo": "none",
     "className1": "view-btn",
@@ -11,8 +11,8 @@
     "alt": "national association of field training officers website"
   },
   {
-    "id": 1,
-    "image": "/static/media/nafto.a57d5248.png",
+    "id": 2,
+    "image": "static/media/nerdHerrd.72f4426e.png",
     "link": "https://nerdherd-group5.herokuapp.com/",
     "repo": "none",
     "className1": "view-btn",
