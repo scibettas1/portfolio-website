@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "../Banner"
-import ModalLaunchGraphic from "../PortfolioItemGraphic";
+import ModalLaunchGraphic from "../PortfolioItem";
 import Footer from "../Footer"
 import graphic from "../../graphic.json";
 
@@ -41,6 +41,8 @@ function Graphic() {
               title={graphicItem.title}
               description={graphicItem.description}
               alt={graphicItem.alt}
+              className1={graphicItem.className1}
+              className2={graphicItem.className2}
             />
           ))}
         </div>

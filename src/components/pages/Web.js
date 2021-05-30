@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "../Banner"
-import ModalLaunchWeb from "../PortfolioItemWeb"
+import ModalLaunchWeb from "../PortfolioItem"
 import Footer from "../Footer"
 import web from "../../web.json";
 
@@ -22,6 +22,8 @@ import burger from "../../images/eat-the-burger.png";
 import nafto from "../../images/nafto.png";
 // eslint-disable-next-line
 import weather from "../../images/weather-app.png";
+// eslint-disable-next-line
+import nerdHerrd from "../../images/nerdHerrd.png";
 // -------------------------------------------------------
 
 function Web() {
@@ -40,6 +42,8 @@ function Web() {
               title={webItem.title}
               description={webItem.description}
               alt={webItem.alt}
+              className1={webItem.className1}
+              className2={webItem.className2}
             />
           ))}
         </div>

@@ -1,74 +1,92 @@
 [
-    {
-      "id": 1,
-      "image": "/static/media/12_9_12_henrietta_hudson.9e05d60f.jpg",
-      "title": "Henrietta Hudson 12-9-12",
-      "description": "Flyer for punk show at Henrietta Hudson in New York City, Designed in Photoshop, 2012",
-      "alt": "flyer for local punk rock concert"
-    },
-    {
-        "id": 2,
-        "image": "/static/media/clubhouse_recording_logo.89f209d0.jpg",
-        "title": "Proposed Clubhouse Recording Logo",
-        "description": "Proposed logo for Clubhouse Recording Studio in Montclair, NJ, Designed in Photoshop, 2012",
-        "alt": "proposed logo for local recording studio"
-      },
-      {
-        "id": 3,
-        "image": "/static/media/crossroads7-6-19.88f350e8.jpg",
-        "title": "Crossroads 7-6-19",
-        "description": "Flyer for heavy metal show at Crossroads in Garwood, NJ, Designed in Adobe Illustrator, 2019",
-        "alt": "flyer for local heavy metal concert"
-      },
-      {
-        "id": 4,
-        "image": "/static/media/dingbatz_10_25_15.abe98356.jpg",
-        "title": "Dingbatz 10-25-15",
-        "description": "Flyer for show at Dingbatz in Clifton, NJ, Designed in Adobe Illustrator, 2015",
-        "alt": "flyer for local punk rock emo concert"
-      },
-      {
-        "id": 5,
-        "image": "/static/media/ending_dan_gordon_band_logo.a0ab8b05.jpg",
-        "title": "Ending Dan Gordon",
-        "description": "Logo for progressive metal band Ending Dan Gordon, Designed in Adobe Illustrator, 2015",
-        "alt": "logo for local progressive metal band"
-      },
-      {
-        "id": 6,
-        "image": "/static/media/song_interpretation.145ac40d.jpg",
-        "title": "Glitter and be Gay",
-        "description": "Visual interpretion of 'Glitter and be Gay' from Leonard Bernstien's 'Candide', Designed in Adobe Illustrator, 2009",
-        "alt": "Visual interpretion of Glitter and be Gay"
-      },
-      {
-        "id": 7,
-        "image": "/static/media/the_dead_ponies_band_logo.f0165941.jpg",
-        "title": "The Dead Ponies",
-        "description": "Logo for punk band The Dead Ponies, Designed in Photoshop, 2012",
-        "alt": "logo for local punk rock band"
-      },
-      {
-        "id": 8,
-        "image": "/static/media/upcoming-shows.78f4aef2.jpg",
-        "title": "Infinitus Mortus Upcoming Shows",
-        "description": "Flyer for upcoming shows for symphonic metal band, Infinitus Mortus, Designed in Adobe Illustrator, 2019",
-        "alt": "flyer for symphonic metal band concert schedule"
-      },
-      {
-        "id": 9,
-        "image": "/static/media/Waverly_Menu.97b577ce.jpg",
-        "title": "Foodie Festival",
-        "description": "Event Menu for The Waverly Foodie Festival in Neptune, NJ, Designed in Photoshop, 2015",
-        "alt": "event menu for foodie festival"
-      }
-      ,
-      {
-        "id": 10,
-        "image": "/static/media/directions_interpretation.7d77efec.jpg",
-        "title": "Directions Inerpretaion",
-        "description": "Visual interpretation on driving directions, Designed in Adobe Illustrator, 2009",
-        "alt": "Visual interpretation on driving directions"
-      }
-  ]
-  
+  {
+    "id": 1,
+    "image": "/static/media/12_9_12_henrietta_hudson.9e05d60f.jpg",
+    "title": "Henrietta Hudson 12-9-12",
+    "description": "Flyer for punk show at Henrietta Hudson in New York City, Designed in Photoshop, 2012",
+    "alt": "flyer for local punk rock concert",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 2,
+    "image": "/static/media/clubhouse_recording_logo.89f209d0.jpg",
+    "title": "Proposed Clubhouse Recording Logo",
+    "description": "Proposed logo for Clubhouse Recording Studio in Montclair, NJ, Designed in Photoshop, 2012",
+    "alt": "proposed logo for local recording studio",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 3,
+    "image": "/static/media/crossroads7-6-19.88f350e8.jpg",
+    "title": "Crossroads 7-6-19",
+    "description": "Flyer for heavy metal show at Crossroads in Garwood, NJ, Designed in Adobe Illustrator, 2019",
+    "alt": "flyer for local heavy metal concert",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 4,
+    "image": "/static/media/dingbatz_10_25_15.abe98356.jpg",
+    "title": "Dingbatz 10-25-15",
+    "description": "Flyer for show at Dingbatz in Clifton, NJ, Designed in Adobe Illustrator, 2015",
+    "alt": "flyer for local punk rock emo concert",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 5,
+    "image": "/static/media/ending_dan_gordon_band_logo.a0ab8b05.jpg",
+    "title": "Ending Dan Gordon",
+    "description": "Logo for progressive metal band Ending Dan Gordon, Designed in Adobe Illustrator, 2015",
+    "alt": "logo for local progressive metal band",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 6,
+    "image": "/static/media/song_interpretation.145ac40d.jpg",
+    "title": "Glitter and be Gay",
+    "description": "Visual interpretion of 'Glitter and be Gay' from Leonard Bernstien's 'Candide', Designed in Adobe Illustrator, 2009",
+    "alt": "Visual interpretion of Glitter and be Gay",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 7,
+    "image": "/static/media/the_dead_ponies_band_logo.f0165941.jpg",
+    "title": "The Dead Ponies",
+    "description": "Logo for punk band The Dead Ponies, Designed in Photoshop, 2012",
+    "alt": "logo for local punk rock band",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 8,
+    "image": "/static/media/upcoming-shows.78f4aef2.jpg",
+    "title": "Infinitus Mortus Upcoming Shows",
+    "description": "Flyer for upcoming shows for symphonic metal band, Infinitus Mortus, Designed in Adobe Illustrator, 2019",
+    "alt": "flyer for symphonic metal band concert schedule",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 9,
+    "image": "/static/media/Waverly_Menu.97b577ce.jpg",
+    "title": "Foodie Festival",
+    "description": "Event Menu for The Waverly Foodie Festival in Neptune, NJ, Designed in Photoshop, 2015",
+    "alt": "event menu for foodie festival",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 10,
+    "image": "/static/media/directions_interpretation.7d77efec.jpg",
+    "title": "Directions Inerpretaion",
+    "description": "Visual interpretation on driving directions, Designed in Adobe Illustrator, 2009",
+    "alt": "Visual interpretation on driving directions",
+    "className1": "hide",
+    "className2": "hide"
+  }
+]
