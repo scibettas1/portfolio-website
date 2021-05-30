@@ -3,7 +3,8 @@
     "id": 1,
       "image": "/static/media/nafto.a57d5248.png",
       "link": "https://www.nafto.org/",
-      "repo": "#",
+      "repo": "none",
+      "className": "hide",
       "title": "NAFTO",
       "description": "WordPress website built and maintained on behalf of the National Association of Field Training Officers",
       "alt": "national association of field training officers website"
@@ -13,6 +14,7 @@
       "image": "/static/media/fivewire.ae61a1b0.png",
       "link": "https://group5-proj2.herokuapp.com/",
       "repo": "https://github.com/scibettas1/5Wire",
+      "className": "view-btn",
       "title": "5Wire",
       "description": "Full-stack music application that allows the user to create and save their own playlists. Group project using HTML, CSS, BootStrap JavaScript, Spotify API, and MongoDB, deployed on Heroku.",
       "alt": "music player website"
@@ -22,6 +24,7 @@
         "image": "/static/media/flight-saver.04177b16.png",
         "link": "https://scibettas1.github.io/flightSaver/",
         "repo": "https://github.com/scibettas1/flightSaver",
+        "className": "view-btn",
         "title": "Flight Saver",
         "description": "Front-end mobile responsive travel website that alows you to search for flights and save them into a search history. It also provides weather and currency exchange information for when and where you are traveling. Group project deployed on Github Pages.",
         "alt": "seach and save flights application"
@@ -31,6 +34,7 @@
         "image": "/static/media/eat-the-burger.79496373.png",
         "link": "https://eat-the-burger-scibetta.herokuapp.com/",
         "repo": "https://github.com/scibettas1/eat-the-burger",
+        "className": "view-btn",
         "title": "Eat the Burger",
         "description": "Full-stack application that allows you to create a burger, eat it, and delete it. Created using HTML, CSS, BootStrap, JavaScript, and MySQL, deployed on Heroku.",
         "alt": "eat the burger application"
@@ -40,6 +44,7 @@
         "image": "/static/media/weather-app.bbb09867.png",
         "link": "https://scibettas1.github.io/weather/",
         "repo": "https://github.com/scibettas1/weather",
+        "className": "view-btn",
         "title": "Weather App",
         "description": "Front-end weather application that pulls weather data by location. Created with HTML, CSS, BootStrap, JavaScript, and Open Weathermap API.",
         "alt": "weather application"
@@ -49,6 +54,7 @@
         "image": "/static/media/password-generator.1a245b6e.png",
         "link": "https://scibettas1.github.io/password_generator/",
         "repo": "https://github.com/scibettas1/password_generator",
+        "className": "view-btn",
         "title": "Password Generator",
         "description": "A simple password generator with prompts written in javascript that generates a password based on the user's responses to the prompts.",
         "alt": "password generator application"
@@ -58,6 +64,7 @@
         "image": "/static/media/day_planner.87bc9606.png",
         "link": "https://scibettas1.github.io/calendar/",
         "repo": "https://github.com/scibettas1/calendar",
+        "className": "view-btn",
         "title": "Work Day Scheduler",
         "description": "A Front-end day planner application that allows you to enter and save tasks and appointments for each hour. As each hour passes, the color of the box will change.",
         "alt": "scheduling application"
@@ -67,6 +74,7 @@
         "image": "/static/media/readMe-generator.5bf230f0.png",
         "link": "https://drive.google.com/file/d/1A9TpvZSDcvcvmeDBHxwfAnJMMBOvoDBI/preview",
         "repo": "https://github.com/scibettas1/readme_writer",
+        "className": "view-btn",
         "title": "ReadMe Generator",
         "description": "README generator that uses inquirer to ask questions and print the answers to a README document.",
         "alt": "redme generator application"
@@ -76,6 +84,7 @@
         "image": "/static/media/employee_tracker.95a9922e.png",
         "link": "https://drive.google.com/file/d/1JqXH6d_lorUpccgi5XIE1krg_CcGpmlO/view",
         "repo": "https://github.com/scibettas1/employee_tracker",
+        "className": "view-btn",
         "title": "Employee Tracker",
         "description": "A mySQL database of employee information that can be viewed and modified via the server.",
         "alt": "employee tracker application"
