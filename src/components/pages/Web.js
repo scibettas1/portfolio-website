@@ -24,6 +24,10 @@ import nafto from "../../images/nafto.png";
 import weather from "../../images/weather-app.png";
 // eslint-disable-next-line
 import nerdHerrd from "../../images/nerdHerrd.png";
+// eslint-disable-next-line
+import linda from "../../images/linda.png";
+// eslint-disable-next-line
+import quiz from "../../images/quiz.png";
 // -------------------------------------------------------
 
 function Web() {
