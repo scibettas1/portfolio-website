@@ -43,11 +43,11 @@ function Hero() {
           <div className="col-md-2"></div>
             <div className="col-md-5">
             <div className="row"></div>
-            <div className="row hideOnMobile"></div>
-              <div className="row hideOnMobile"><img src={circle} className="dot1 circle hideOnMobile" alt="circle"/></div>
-              <div className="row hideOnMobile"><img src={circle} className="dot2 circle hideOnMobile" alt="circle"/></div>
-              <div className="row hideOnMobile"><img src={circle} className="dot3 circle hideOnMobile" alt="circle"/></div>
-              <div className="row hideOnMobile"><img src={circle} className="dot4 circle hideOnMobile" alt="circle"/></div>
+            <div className="row"></div>
+              <div className="row"><img src={circle} className="dot1" alt="circle"/></div>
+              <div className="row"><img src={circle} className="dot2" alt="circle"/></div>
+              <div className="row"><img src={circle} className="dot3" alt="circle"/></div>
+              <div className="row"><img src={circle} className="dot4" alt="circle"/></div>
             </div>
             <div className="col-md-5">
               <img src={profile} className="rounded-circle profile-img" alt="profile sam scibetta"/>

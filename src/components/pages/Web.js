@@ -19,6 +19,8 @@ import fiveWire from "../../images/fivewire.png";
 // eslint-disable-next-line
 import burger from "../../images/eat-the-burger.png";
 // eslint-disable-next-line
+import nafto from "../../images/nafto.png";
+// eslint-disable-next-line
 import weather from "../../images/weather-app.png";
 // -------------------------------------------------------
 

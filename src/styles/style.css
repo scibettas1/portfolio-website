@@ -79,7 +79,7 @@ h1 {
     min-height: 300px;
 }
 
-.circle {
+.dot1, .dot2, .dot3, .dot4 {
     max-width: 25px;
     float: left;
 }
@@ -194,8 +194,8 @@ footer {
     .my-h5 {
     font-size: 14px;
     font-weight: 400;
-}
-    .hideOnMobile {
+    }
+    .dot1, .dot2, .dot3, .dot4 {
         display:none!important;
     }
 }
