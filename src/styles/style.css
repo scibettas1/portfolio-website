@@ -123,8 +123,8 @@ h1 {
     object-fit: cover;
     vertical-align: middle;
     margin: 10px;
-    width: 210px;
-    height: 210px;
+    width: 202px;
+    height: 202px;
 }
 
 @media (max-width: 767px) {
