@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0a69d516.chunk.css",
-    "main.js": "/static/js/main.b9203fde.chunk.js",
-    "main.js.map": "/static/js/main.b9203fde.chunk.js.map",
+    "main.js": "/static/js/main.2d76bde2.chunk.js",
+    "main.js.map": "/static/js/main.2d76bde2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ca5da12.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ca5da12.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.58180465.chunk.js": "/static/js/2.58180465.chunk.js",
-    "static/js/2.58180465.chunk.js.map": "/static/js/2.58180465.chunk.js.map",
+    "static/js/2.9742d3ee.chunk.js": "/static/js/2.9742d3ee.chunk.js",
+    "static/js/2.9742d3ee.chunk.js.map": "/static/js/2.9742d3ee.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.0a69d516.chunk.css.map": "/static/css/main.0a69d516.chunk.css.map",
-    "static/js/2.58180465.chunk.js.LICENSE.txt": "/static/js/2.58180465.chunk.js.LICENSE.txt",
+    "static/js/2.9742d3ee.chunk.js.LICENSE.txt": "/static/js/2.9742d3ee.chunk.js.LICENSE.txt",
     "static/media/12_9_12_henrietta_hudson.9e05d60f.jpg": "/static/media/12_9_12_henrietta_hudson.9e05d60f.jpg",
     "static/media/Waverly_Menu.97b577ce.jpg": "/static/media/Waverly_Menu.97b577ce.jpg",
     "static/media/clubhouse_recording_logo.89f209d0.jpg": "/static/media/clubhouse_recording_logo.89f209d0.jpg",
@@ -28,7 +28,8 @@
     "static/media/github.1199997f.png": "/static/media/github.1199997f.png",
     "static/media/style.css": "/static/media/hero.f0e14c91.jpg",
     "static/media/linkedin.1a089958.png": "/static/media/linkedin.1a089958.png",
-    "static/media/nafto.a57d5248.png": "/static/media/nafto.a57d5248.png",
+    "static/media/nafto.74231bed.png": "/static/media/nafto.74231bed.png",
+    "static/media/nerdHerrd.72f4426e.png": "/static/media/nerdHerrd.72f4426e.png",
     "static/media/password-generator.1a245b6e.png": "/static/media/password-generator.1a245b6e.png",
     "static/media/profile.d2a14487.jpg": "/static/media/profile.d2a14487.jpg",
     "static/media/readMe-generator.5bf230f0.png": "/static/media/readMe-generator.5bf230f0.png",
@@ -40,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.7ca5da12.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.58180465.chunk.js",
+    "static/js/2.9742d3ee.chunk.js",
     "static/css/main.0a69d516.chunk.css",
-    "static/js/main.b9203fde.chunk.js"
+    "static/js/main.2d76bde2.chunk.js"
   ]
 }
