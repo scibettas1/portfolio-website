@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/static/media/12_9_12_henrietta_hudson.9e05d60f.jpg",
+    "title": "Henrietta Hudson 12-9-12",
+    "description": "Flyer for punk show at Henrietta Hudson in New York City, Designed in Photoshop, 2012",
+    "alt": "flyer for local punk rock concert",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 3,
+    "image": "/static/media/crossroads7-6-19.88f350e8.jpg",
+    "title": "Crossroads 7-6-19",
+    "description": "Flyer for heavy metal show at Crossroads in Garwood, NJ, Designed in Adobe Illustrator, 2019",
+    "alt": "flyer for local heavy metal concert",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 4,
+    "image": "/static/media/dingbatz_10_25_15.abe98356.jpg",
+    "title": "Dingbatz 10-25-15",
+    "description": "Flyer for show at Dingbatz in Clifton, NJ, Designed in Adobe Illustrator, 2015",
+    "alt": "flyer for local punk rock emo concert",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 5,
+    "image": "/static/media/upcoming-shows.78f4aef2.jpg",
+    "title": "Infinitus Mortus Upcoming Shows",
+    "description": "Flyer for upcoming shows for symphonic metal band, Infinitus Mortus, Designed in Adobe Illustrator, 2019",
+    "alt": "flyer for symphonic metal band concert schedule",
+    "className1": "hide",
+    "className2": "hide"
+  }
+]

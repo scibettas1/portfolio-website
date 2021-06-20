@@ -30,7 +30,7 @@ function ModalLaunchWeb(props) {
                 centered
             >
                 <Modal.Header>
-                    <img src={portfolioItem.image} className="img-fluid" alt={portfolioItem.alt} />
+                    <img src={portfolioItem.image} className="modalImg img-fluid" alt={portfolioItem.alt} />
                 </Modal.Header>
                 <Modal.Body>
                     <h3>{portfolioItem.title}</h3>

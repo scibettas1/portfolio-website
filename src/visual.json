@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/static/media/song_interpretation.145ac40d.jpg",
+    "title": "Glitter and be Gay",
+    "description": "Visual interpretion of 'Glitter and be Gay' from Leonard Bernstien's 'Candide', Designed in Adobe Illustrator, 2009",
+    "alt": "Visual interpretion of Glitter and be Gay",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 2,
+    "image": "/static/media/directions_interpretation.7d77efec.jpg",
+    "title": "Directions Inerpretaion",
+    "description": "Visual interpretation on driving directions, Designed in Adobe Illustrator, 2009",
+    "alt": "Visual interpretation on driving directions",
+    "className1": "hide",
+    "className2": "hide"
+  }
+]

@@ -88,5 +88,33 @@
     "alt": "Visual interpretation on driving directions",
     "className1": "hide",
     "className2": "hide"
+  },
+  {
+    "id": 11,
+    "image": "/static/media/resident-meet-and-greet.95c08663.jpg",
+    "title": "Resident Meet & Greet Flyer",
+    "description": "Resident Meet & Greet Flyer for One 500 apartments in Teanck, NJ, Designed in Adobe Illustrator, 2021",
+    "alt": "Resident Meet & Greet Flyer for One 500 apartments in Teanck, NJ",
+    "className1": "hide",
+    "className2": "hide"
+  },
+  {
+    "id": 12,
+    "image": "/static/media/resident-referral-enclave.c6f1b0ea.jpg",
+    "title": "Resident Referral Program Flyer",
+    "description": "Resident Referral Program Flyer for The Enclave apartments in Jersey City, NJ, Designed in Adobe Photoshop, 2019",
+    "alt": "Resident Referral Program Flyer for The Enclave apartments in Jersey City, NJ",
+    "className1": "hide",
+    "className2": "hide"
+  }
+  ,
+  {
+    "id": 13,
+    "image": "/static/media/link-flyer.a363b27b.png",
+    "title": "The Link at Aberdeen Flyer",
+    "description": "Two-sided flyer for The Link at Aberdeen Station apartments in Aberdeen, NJ, Designed in Adobe Photoshop, 2017",
+    "alt": "Two-sided flyer for The Link at Aberdeen Station apartments in Aberdeen, NJ",
+    "className1": "hide",
+    "className2": "hide"
   }
 ]
