@@ -8,8 +8,8 @@ function Home() {
   return (
     <div>
       <Hero />
-      <WebSection />
       <GraphicSection />
+      <WebSection />
       <Footer />
   </div>
   );

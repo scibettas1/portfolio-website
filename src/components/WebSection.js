@@ -12,15 +12,15 @@ import flightSaver from "../images/flight-saver.png";
 function WebSection() {
   return (
     <div>
-      <div className="info1">
+      <div className="info2">
         <div className="container">
           <h2 class="my-h2">WEB DEVELOPMENT</h2>
           <div className="row">
             <div className="col-md-4">
-              <h4 class="my-h4">SKILLS: HTML5, CSS3 (Styling &#38; Animations), JavaScript ES6, jQuery, VML, WordPress,
+              <h5 class="my-h5">SKILLS: HTML5, CSS3 (Styling &#38; Animations), JavaScript ES6, jQuery, VML, WordPress,
               Yardi RentCafe &#38; other CMS, Heroku, cPanel, GitHub, MySQL Workbench, Bootstrap, Materialize,
               UI Kit, React, Greensock Animations, API Integrations, Node, SQL, MongoDB, Git, Elementor,
-                Google Developer Tools</h4>
+                Google Developer Tools</h5>
             </div>
             <div className="col-md-8">
               <a href="https://group5-proj2.herokuapp.com/" target="_blank" rel="noreferrer"><img src={fiveWire} className="rounded homeThumb shadow" alt="" /></a>

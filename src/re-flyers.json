@@ -34,5 +34,14 @@
     "alt": "Open house flyer for The Reserve at New Windsor in New Windsor, NY",
     "className1": "hide",
     "className2": "hide"
+  },
+  {
+    "id": 5,
+    "image": "/static/media/garwood2020.23f94eb8.png",
+    "title": "The Lofts at Garwood Flyer",
+    "description": "Two-sided flyer for The Lofts at Garwood apartments in Garwood, NJ, Designed in Adobe Photoshop, 2020",
+    "alt": "Two-sided flyer for The Lofts at Garwood apartments in Garwood, NJ",
+    "className1": "hide",
+    "className2": "hide"
   }
 ]

@@ -39,6 +39,8 @@ import linkFlyer from "../../images/link-flyer.png";
 import shanaPLogo from "../../images/shanap-logo.png";
 // eslint-disable-next-line
 import nwOpen from "../../images/nwOpenHouse.jpg";
+// eslint-disable-next-line
+import garwood from "../../images/garwood2020.png";
 // -------------------------------------------------------------
 
 

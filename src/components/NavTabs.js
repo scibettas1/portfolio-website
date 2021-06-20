@@ -21,12 +21,13 @@ function NavTabs() {
             </NavItem>
 
             <NavItem>
-              <NavLink className="nav-link" to="/web">Web Development</NavLink>
+              <NavLink className="nav-link" to="/graphic">Graphic Design</NavLink>
             </NavItem>
 
             <NavItem>
-              <NavLink className="nav-link" to="/graphic">Graphic Design</NavLink>
+              <NavLink className="nav-link" to="/web">Web Development</NavLink>
             </NavItem>
+
 
             {/* <NavItem>
               <button type="button" className="view-btn">
