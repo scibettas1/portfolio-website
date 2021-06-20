@@ -126,6 +126,9 @@ h1 {
     width: 202px;
     height: 202px;
 }
+hr {
+    border-top: 2px solid rgb(254 64 2);
+}
 
 @media (max-width: 767px) {
     .thumb {
