@@ -10,14 +10,13 @@ function ModalLaunchWeb(props) {
     console.log(portfolioItem);
 
     return (
-        <>
-            <img src={props.image} alt={props.alt} className="rounded thumb shadow" onClick={() => setModalShow(true)} />
-
+        <div>
+            <img src={props.image} alt={props.alt} className="rounded thumb shadow" onClick={() => setModalShow(true)}/>
+            
             <PortfolioModal
                 show={modalShow}
-                onHide={() => setModalShow(false)}
-            />
-        </>
+                onHide={() => setModalShow(false)}/>
+        </div>
     );
 
     function PortfolioModal(props) {
@@ -44,6 +43,7 @@ function ModalLaunchWeb(props) {
             </Modal>
         );
     };
+    // eslint-disable-next-line
 };
 
-export default ModalLaunchWeb
+export default ModalLaunchWeb;

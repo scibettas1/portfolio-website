@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 
 // ----------------------Images---------------------------
 import crossroads7619 from "../images/crossroads7-6-19.jpg";
-import henrietta12912 from "../images/12_9_12_henrietta_hudson.jpg";
 import enclaveFlyer from "../images/resident-referral-enclave.jpg";
 import one500Flyer from "../images/resident-meet-and-greet.jpg";
 import shanaPLogo from "../images/shanap-logo.png";
